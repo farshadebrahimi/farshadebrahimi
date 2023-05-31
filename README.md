@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @farshadebrahimi
-- 🌱 Doing environmental data analytics in R & SQL
+ 🌱 environmental data analytics in R & SQL
 
 <!---
 farshadebrahimi/farshadebrahimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
